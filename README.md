@@ -1,8 +1,5 @@
 # 📊 LALR Parsing Table Generator
 
-A user-friendly web app built with **Streamlit** to generate and visualize **LALR Parsing Tables** from transition and CLR state files. Ideal for students, compiler designers, and anyone learning about parser generation!
-
----
 
 ## 🚀 Overview
 
